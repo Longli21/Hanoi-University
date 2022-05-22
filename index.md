@@ -19,6 +19,7 @@
     </style>
     <h1 style="text-align:center;">我在越南河内大学读中文</h1>
     <h2 style="text-align:center;">黎煌龙（越南）</h2>
+    <br />
     <p> 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我毕业于越南河内大学汉语专业，现在南京大学读研究生。<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;河内是越南首都，河内大学是外语类高校，外语类专业在全越南排名第一，是名副其实的越南“名校”，越南学生考河内大学，跟中国学生考北大一样难。<br />
