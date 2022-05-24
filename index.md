@@ -8,7 +8,7 @@
   <body>
     <style> 
       body{
-        background-image:url('https://hanu.edu.vn/img/hanu4.jpg');
+        background-image:url('https://www.linkpicture.com/q/BLUR-5.jpg');
         background-repeat:no-repeat;
         background-attachment:fixed;
         background-size: cover;
